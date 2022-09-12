@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Full Stack Web Development
 - 🤔 I’m looking for help with Fronend & API's
 - 💬 Ask me about Full Stack Web Development
-- 📫 How to reach me: safyanyaqoo07@gmail.com && 
+- 📫 How to reach me: nishadpathoor@gmail.com && 
 - 😄 Pronouns: He
 - ⚡ Fun fact: Love to plyaing ⚽
 
